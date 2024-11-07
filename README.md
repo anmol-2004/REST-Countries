@@ -23,7 +23,7 @@ With this app, users can:
 
 **Live Preview:**  
 Check out the live version of the REST Countries website here:  
-[**REST Countries - Live Preview**](https://your-username.github.io/rest-countries/)
+[**REST Countries - Live Preview**](https://anmol-2004.github.io/REST-Countries/)
 
 ---
 
